@@ -8,15 +8,15 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taqinur&layout=compact)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taqinur&layout=compact)
 
 ### GitHub Streak
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=taqinur&theme=highcontrast&hide_border=true" alt="taqinur" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=taqinur&theme=highcontrast&hide_border=true" alt="taqinur" />
 
-### Activity Trends
+<!-- ### Activity Trends
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=taqinur&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=taqinur&theme=dracula&hide_border=true) -->
 
 ### GitHub Trophies
 
@@ -30,7 +30,7 @@
 - [Facebook](https://www.facebook.com/TaqinurTahmid/) 😏
 <!-- YOU-CAN-FIND-ME:END -->
 
-**Page Views**(Counting since 30th Nov 2020): ![Visitor Count](https://profile-counter.glitch.me/taqinur/count.svg)
+**Page Views**(Counting since 1st Dec 2020): ![Visitor Count](https://profile-counter.glitch.me/taqinur/count.svg)
 
 <!---
 taqinur/taqinur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
