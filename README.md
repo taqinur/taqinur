@@ -8,7 +8,7 @@
 
 ### Top Languages
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taqinur&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taqinur&layout=compact)]
 
 ### GitHub Streak
 
