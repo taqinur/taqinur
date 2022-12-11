@@ -39,9 +39,9 @@
 
 ## 📫 You can find me @
 <!-- YOU-CAN-FIND-ME:START -->
-- [Twitter](https://twitter.com/TaqinurT) 🐤
 - [LinkedIn](https://www.linkedin.com/in/taqinur-tahmid/) 💼
 - [Facebook](https://www.facebook.com/TaqinurTahmid/) 😏
+- [Twitter](https://twitter.com/TaqinurT) 🐤
 <!-- YOU-CAN-FIND-ME:END -->
 
 **Page Views**(Counting since 1st Dec 2022): ![Visitor Count](https://profile-counter.glitch.me/taqinur/count.svg)
